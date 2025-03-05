@@ -1,5 +1,5 @@
 # Droid
 
-A project about creating a droid class that performs faks.
+A project about creating a droid class that performs task.
 
 By Samuel Oviedo
